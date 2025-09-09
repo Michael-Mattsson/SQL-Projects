@@ -1,9 +1,9 @@
-SQL Portfolio
+## SQL Portfolio
 
 Welcome to my SQL Portfolio – a collection of projects that showcase my ability to solve real-world problems with data.
 This repository brings together work across different topics, industries, and SQL techniques, all with the goal of transforming raw data into insights and efficiency.
 
-🔍 What You’ll Find Here
+### 🔍 What You’ll Find Here
 
 My projects span a variety of domains:
 
@@ -17,7 +17,7 @@ Industry-Specific Cases → From finance to retail to workforce management.
 
 Each project includes SQL scripts (PostgreSQL / SQLite) and documentation explaining the logic, design, and decisions.
 
-🛠️ Skills & Techniques Demonstrated
+### 🛠️ Skills & Techniques Demonstrated
 
 Schema Design & Data Modeling
 
@@ -41,7 +41,7 @@ Data Loading & Transformation
 
 Using COPY, CSV imports, and cleaning raw data
 
-🗄️ Databases & Languages
+###🗄️ Databases & Languages
 
 PostgreSQL – Primary database for advanced queries and schema design
 
