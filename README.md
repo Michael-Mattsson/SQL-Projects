@@ -41,7 +41,7 @@ Data Loading & Transformation
 
 Using COPY, CSV imports, and cleaning raw data
 
-###🗄️ Databases & Languages
+### 🗄️ Databases & Languages
 
 PostgreSQL – Primary database for advanced queries and schema design
 
